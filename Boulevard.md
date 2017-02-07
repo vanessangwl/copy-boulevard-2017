@@ -139,10 +139,11 @@ Nearest MRT Station:
 
 ### Blog
 ### Events
-Christmas events, etc <see blog>
-"Boulevard Experience"
-Catering & etc
-Corporate functions
+Boulevard provides a variety of venues to cater to your event. You have the option of choice and flexibility as the entire Boulevard team works together with you to ensure you have everything you need.
+
+For event bookings and more inquiries, contact us at info@blvd.sg
+
+[comment]: # (insert pictures of past events)
 
 ### Contact Us
 BLVD HOLDING Pte Ltd
