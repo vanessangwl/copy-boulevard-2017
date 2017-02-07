@@ -21,7 +21,7 @@ Your choice, your comfort, your life.
 
 ### Dining and bar
 
-For XX years, Boulevard has been serving <insert adj> food and <insert adj> drinks to you in the heart of Singapore. Our staff are dedicated to serving you at the highest level. At each and every of our outlets, you can rest assured that you will find only the best in wining and dining.
+For close to a decade, Boulevard has been serving you the best of popular Western and Asian cuisine in the heart of Singapore. At each and every of our outlets, join us and relax, be pampered and revel in the finest we have for you.
 
 ### Our Outlets
 
