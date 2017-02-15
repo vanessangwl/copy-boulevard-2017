@@ -98,21 +98,19 @@ Take a breather from the fast paced city life here with us at Boulevard Bayfront
 HTML form
 
 ##### Contact us
-  (T): +65 6634 8761
+(T): +65 6634 8761
 
-  8 Marina Boulevard #01-02, Tower 1
-  Marina Bay Financial Centre
-  Singapore 018981
+8 Marina Boulevard #01-02, Tower 1
+Marina Bay Financial Centre
+Singapore 018981
 
+Monday - Friday: 11.00AM-12:30AM
+Sat/Sun: Closed.
 
-  Monday - Friday: 11am-12:30am
-  Sat/Sun: Closed.
-
-
-  Nearest MRT Stations:
-  Downtown (1min)
-  Marina Bay (5 mins)
-  Raffles Place (7 mins)
+Nearest MRT Stations:
+Downtown (1min)
+Marina Bay (5 mins)
+Raffles Place (7 mins)
 
 [comment]: # (imbed google map)
 
