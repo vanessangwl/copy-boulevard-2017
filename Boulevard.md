@@ -21,19 +21,33 @@ Your choice, your comfort, your life.
 
 ### Dining and bar
 
-For close to a decade, Boulevard has been serving you the best of popular Western and Asian cuisine in the heart of Singapore. At each and every of our outlets, join us and relax, be pampered and revel in the finest we have for you.
+For XX years, Boulevard has been serving <insert adj> food and <insert adj> drinks to you in the heart of Singapore. Our staff are dedicated to serving you at the highest level. At each and every of our outlets, you can rest assured that you will find only the best in wining and dining.
+
+Within close proximity to Singapore's financial and business districts, supported by ample parking spaces and walking distance from MRT stations, there is bound to be a Boulevard - each with its own style and signature - near you.
+
+>Come in and be amazed, rest while being entertained, and leave wanting to return. Expert attention is placed on every action and every detail just to pamper you.
 
 ### Our Outlets
 
 [comment]: # (individual websites for each location)
 
 #### Boulevard Millenia Walk
-Bespoke, Crafted, Tailored to your perfection.
+Bespoke, Artisanal, Tailored to your perfection.
+
+[comment]: # (Are we keeping BLVD or Boulevard as the name?)
 
 ##### About (landing page)
-Boulevard Millenia Walk offers you a bespoke cocktail bar experience tailored to excite your senses. Be it a particular flavour, aroma or alcohol level that tickles your taste buds, our in-house mixologist is ready to tackle it head on. Nothing is left to chance as everything from our selection of spirits, glassware and equipment is specially chosen for you to enjoy that perfection that is your drink.
+Boulevard Millenia Walk offers you a bespoke cocktail bar experience tailored to excite your senses. Be it a particular flavour, aroma or alcohol level that tickles your taste buds, be prepared to have all your cravings released by our in-house mixologist. Nothing is left to chance as everything from our selection of spirits, glassware and equipment is specially chosen for you to enjoy that perfection in your drink.
+
+Sit back and relax in our intimate and cozy bar, centrally located within walking distance of City Hall and Promenade MRT station.
 
 [comment]: # (photos of food, Mixologist, drinks, cups, environment)
+
+[comment]: # (is this a bespoke bar or sports bar? 2 ideas in 1 place...)
+
+With beer on tap, by the bottle, our handpicked selection of hard liquors, spirits and wine accompanying our signature Singapura Carrot Cake and Crackling Pork Belly, you can be sure there's something for everyone.
+
+Complete the Boulevard experience with live sports screenings of soccer, tennis <insert other sports shown> every <insert schedule>
 
 ##### Gallery (Outlet Pics)
 ##### Menu (PDF)
@@ -60,10 +74,16 @@ Email form
 
 ##### Social Media (Outlet FB / Instagram)
 
+[comment]: # (does each outlet have an FB account? Or just 1 main account. Same with Instagram?)
+
 #### Boulevard Asia Square
 
 ##### About
-Boulevard Asia Square is an Asian Dining and Bar concept offering Western cuisine and local delights, situated right in the middle of Singapore's Central Business District. Come in and relax, have one of our tapas and a beer. We guarantee you won't be disappointed.
+Boulevard Asia Square is an Asian Dining and Bar concept offering local cuisine and <favourite?> delights, as well as our chef's own Asian spin on tapas and <insert names of other western cuisine; also check menu>
+
+[comment]: # (insert something about the chef)
+
+Situated right in the middle of Singapore's Central Business District, enjoy the pleasures of <something other than "local gourmet dining" and "casual drinking"> in the comfort of <not home, but something similar>
 
 ##### Gallery (Outlet Pics)
 ##### Menu (PDF)
@@ -89,7 +109,9 @@ Downtown (1min)
 #### Boulevard Bayfront
 
 ##### About
-Take a breather from the fast paced city life here with us at Boulevard Bayfront. Alongside unforgettable views of the Marina Bay Waterfront, sample the fresh atmosphere, along with our bar cuisines and fine wines, cocktails, and other bar favourites.
+Boulevard Bayfront offers fine dining with both indoor and outdoor dining options alongside unforgettable views of the Marina Bay Waterfront.
+
+Take a breather from the fast paced city life with us, one of the best places to dine by the water's edge. Sample the atmosphere of the waterfront, along with our bar cuisines and curated list of fine wines, cocktails, and other bar favourites.
 
 ##### Gallery (Outlet Pics)
 ##### Menu (PDF)
@@ -98,19 +120,21 @@ Take a breather from the fast paced city life here with us at Boulevard Bayfront
 HTML form
 
 ##### Contact us
-(T): +65 6634 8761
+  (T): +65 6634 8761
 
-8 Marina Boulevard #01-02, Tower 1
-Marina Bay Financial Centre
-Singapore 018981
+  8 Marina Boulevard #01-02, Tower 1
+  Marina Bay Financial Centre
+  Singapore 018981
 
-Monday - Friday: 11.00AM-12:30AM
-Sat/Sun: Closed.
 
-Nearest MRT Stations:
-Downtown (1min)
-Marina Bay (5 mins)
-Raffles Place (7 mins)
+  Monday - Friday: 11am-12:30am
+  Sat/Sun: Closed.
+
+
+  Nearest MRT Stations:
+  Downtown (1min)
+  Marina Bay (5 mins)
+  Raffles Place (7 mins)
 
 [comment]: # (imbed google map)
 
@@ -137,11 +161,10 @@ Nearest MRT Station:
 
 ### Blog
 ### Events
-Boulevard provides a variety of venues to cater to your event. You have the option of choice and flexibility as the entire Boulevard team works together with you to ensure you have everything you need.
-
-For event bookings and more inquiries, contact us at info@blvd.sg
-
-[comment]: # (insert pictures of past events)
+Christmas events, etc <see blog>
+"Boulevard Experience"
+Catering & etc
+Corporate functions
 
 ### Contact Us
 BLVD HOLDING Pte Ltd
