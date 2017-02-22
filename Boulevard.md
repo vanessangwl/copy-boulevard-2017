@@ -6,6 +6,8 @@
 
 ## About Boulevard
 
+[comment]: # (Please choose between the two taglines below, or if I need to rewrite them, or no tagline altogether)
+
 Boulevard was designed with you in mind.
 
 Your choice, your comfort, your life.
@@ -16,6 +18,8 @@ Strategically located within Singapore’s prominent business districts, Bouleva
 
 ### Our Team
 
+[comment]: # (pictures of Boulevard staff)
+
 ### Dining and bar
 
 For close to a decade, Boulevard has been serving you the best of popular Western and Asian cuisine in the heart of Singapore. At each and every of our outlets, join us and relax, be pampered and revel in the finest we have for you.
@@ -24,42 +28,13 @@ For close to a decade, Boulevard has been serving you the best of popular Wester
 
 [comment]: # (individual websites for each location)
 
-#### Boulevard Millenia Walk
-
-##### About (landing page)
-Boulevard Millenia Walk offers you a bespoke cocktail bar experience tailored to excite your senses. Be it a particular flavour, aroma or alcohol level that tickles your taste buds, our in-house mixologist is ready to tackle it head on. Nothing is left to chance as everything from our selection of spirits, glassware and equipment is specially chosen for you to enjoy that perfection that is your drink.
-
-[comment]: # (photos of food, Mixologist, drinks, cups, environment)
-
-##### Gallery (Outlet Pics)
-##### Menu (PDF)
-##### Packages/Promotions
-##### Reservations
-HTML form
-
-##### Contact us
-(T): +65 6883 2033
-
-9 Raffles Boulevard #01-23
-Millenia Walk
-Singapore 039596
-
-Monday - Sunday: 3.00PM - 12.00AM
-
-Nearest MRT Stations:
-Promenade (1 min)
-City Hall (7 mins)
-
-[comment]: # (imbed google map)
-
-Email form
-
-##### Social Media (Outlet FB / Instagram)
-
 #### Boulevard Asia Square
 
 ##### About
+
 Boulevard Asia Square is an Dining and Bar concept offering Western cuisine and local delights, situated right in the middle of Singapore's Central Business District. 
+
+Set in a corporate vicinity, enjoy the pleasures of local gourmet and casual drinking with menu selections that spell familiarity to many. Its exterior highlights a relaxing alfresco area suitable for group gatherings alongside relishment of bar snacks, sakes, fine wines and other favourite international beers. 
 
 Come in and relax, have one of our tapas and a beer. We guarantee you won't be disappointed.
 
@@ -88,7 +63,9 @@ Downtown (1min)
 
 ##### About
 
-Take a breather from the fast paced city life here with us at Boulevard Bayfront. Alongside unforgettable views of the Marina Bay Waterfront, sample the fresh atmosphere, along with our bar cuisines and fine wines, cocktails, and other bar favourites.
+Boulevard Bayfront offers fine dining with both indoor and outdoor dining options alongside unforgettable views of the Marina Bay Waterfront. Set in the bustling Financial District, the chic and trendy designer-like interior, dazzling unblocked view of the Marina Bay Waterfront, accompanying bar cuisine of Tapas and Stone-Fired Handmade Pizza, and a polished fine wine list are the reasons for the draw of this place.
+
+Launched in early 2011, Boulevard Bayfront's warm and welcoming atmosphere provides a haven for the business community, locals and overseas guests alike. Take a breather from the fast paced city life here with us at Boulevard Bayfront. Alongside unforgettable views of the Marina Bay Waterfront, sample the fresh atmosphere, along with our bar cuisines and fine wines, cocktails, and other bar favourites.
 
 ##### Gallery (Outlet Pics)
 ##### Menu (PDF)
@@ -113,10 +90,17 @@ Raffles Place (7 mins)
 
 [comment]: # (imbed google map)
 
-#### Blvd BO (Coming Soon)
+#### Blvd Duo (Coming Soon)
 
 ##### About
-A surprise for two, coming soon near you.
+
+Boulevard Duo is the fourth entry from Singapore's leading chain of gastronomy bars for corporates.
+
+This time, Boulevard is stepping into new territory, bringing two concepts into one location. Expect fine dining options on top of the gastrobars Boulevard is well-known for.
+
+An exciting blend of old and new, bound to be a game-changer, Boulevard welcomes you to join our latest addition to the family.
+
+Opening soon in 2017!
 
 ##### Gallery (Outlet Pics)
 ##### Menu (PDF)
@@ -131,6 +115,42 @@ Opening hrs:
 Nearest MRT Station:
 
 [comment]: # (imbed google map)
+
+#### Boulevard Millenia Walk
+
+##### About (landing page)
+Boulevard Millenia Walk offers you a bespoke cocktail bar experience tailored to excite your senses. Be it a particular flavour, aroma or alcohol level that tickles your taste buds, our in-house mixologist is ready to tackle it head on. Nothing is left to chance as everything from our selection of spirits, glassware and equipment is specially chosen for you to enjoy that perfection that is your drink.
+
+With beer on tap, by the bottle, our handpicked selection of hard liquors, spirits and wine accompanying our signature Singapura Carrot Cake and Crackling Pork Belly, you can be sure there's something for everyone.
+
+Complete the Boulevard experience with live sports screenings of soccer, tennis, golf and more. Expect multiple sports channels shown on large projector screen and plasma TVs with coverage in every angle. The clear cinematic surround sound commentary system makes this bar the most ideal to watch live sports with your family and friends.
+
+[comment]: # (photos of food, Mixologist, drinks, cups, environment)
+
+##### Gallery (Outlet Pics)
+##### Menu (PDF)
+##### Packages/Promotions
+##### Reservations
+HTML form
+
+##### Contact us
+(T): +65 6883 2033
+
+9 Raffles Boulevard #01-23
+Millenia Walk
+Singapore 039596
+
+Monday - Sunday: 3.00PM - 12.00AM
+
+Nearest MRT Stations:
+Promenade (1 min)
+City Hall (7 mins)
+
+[comment]: # (imbed google map)
+
+Email form
+
+##### Social Media (Outlet FB / Instagram)
 
 ### Blog
 ### Events
