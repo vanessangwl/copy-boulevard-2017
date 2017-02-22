@@ -10,12 +10,9 @@ Boulevard was designed with you in mind.
 
 Your choice, your comfort, your life.
 
-[comment]: # (What is Boulevard's history? Why was Boulevard formed?)
+Boulevard is one of the leading names in Singapore of gastronomy bars, bringing the city's corporate wining and dining scene to exciting new heights with a chain that includes: Boulevard Asia Square, a casual comfort-food restaurant and lounge; the beautiful Boulevard Bayfront; the ever-popular Boulevard Millenia Walk, and a new exciting concept coming at Boulevard DUO in 2017.
 
-[comment]: # (Company Mission/Vision/Values)
-
-[comment]: # (Check how long Boulevard has been around)
-
+Strategically located within Singapore’s prominent business districts, Boulevard has been designed to cater primarily to the local corporate community. Embracing a contemporary, upscale gastrobar concept, Boulevard offers busy executives a convenient destination for business lunches, after work drinks and evening dining and entertainment. Expansive interior spaces plus an outdoor terrace section provide comfortable options for seating – either at the main bar section; in the lounge zone replete with plush black leather sofas; or at numerous dining tables. Its interior concept aims for greater group dynamics with furniture configurations designed to create a livelier and more open feel. With long faux teak tables and bar stools, and flat screen TV plastered on wooden paneled walls; the bar is the perfect choice for a night out with friends. A well-constructed menu lists a wide selection of gourmet bar bites, sharing platters, pizzas and classic pub style dishes. Meanwhile the bar dispenses an impressive range of premium liquors, Scottish and Japanese whiskies, delicious cocktails, plus wines and champagnes. 
 
 ### Our Team
 
