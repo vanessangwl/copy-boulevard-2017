@@ -28,7 +28,6 @@ For close to a decade, Boulevard has been serving you the best of popular Wester
 [comment]: # (individual websites for each location)
 
 #### Boulevard Millenia Walk
-Bespoke, Crafted, Tailored to your perfection.
 
 ##### About (landing page)
 Boulevard Millenia Walk offers you a bespoke cocktail bar experience tailored to excite your senses. Be it a particular flavour, aroma or alcohol level that tickles your taste buds, our in-house mixologist is ready to tackle it head on. Nothing is left to chance as everything from our selection of spirits, glassware and equipment is specially chosen for you to enjoy that perfection that is your drink.
@@ -63,7 +62,9 @@ Email form
 #### Boulevard Asia Square
 
 ##### About
-Boulevard Asia Square is an Asian Dining and Bar concept offering Western cuisine and local delights, situated right in the middle of Singapore's Central Business District. Come in and relax, have one of our tapas and a beer. We guarantee you won't be disappointed.
+Boulevard Asia Square is an Dining and Bar concept offering Western cuisine and local delights, situated right in the middle of Singapore's Central Business District. 
+
+Come in and relax, have one of our tapas and a beer. We guarantee you won't be disappointed.
 
 ##### Gallery (Outlet Pics)
 ##### Menu (PDF)
@@ -89,6 +90,7 @@ Downtown (1min)
 #### Boulevard Bayfront
 
 ##### About
+
 Take a breather from the fast paced city life here with us at Boulevard Bayfront. Alongside unforgettable views of the Marina Bay Waterfront, sample the fresh atmosphere, along with our bar cuisines and fine wines, cocktails, and other bar favourites.
 
 ##### Gallery (Outlet Pics)
@@ -118,8 +120,6 @@ Raffles Place (7 mins)
 
 ##### About
 A surprise for two, coming soon near you.
-
-[comment]: # (lifted from Prive: Modern French Grill, Privé Grill, specializes in French-inspired cuisine given a modern twist. Aside from an extensive selection of perfectly-cooked charcoal-grilled meats, diners can also look forward to scrumptious starters, hearty mains and a decadent dessert buffet that are all part of a very affordable 2-course ($48) and 3-course ($58) set dinner. On weekdays, set lunches are also available with some of the best views in Singapore. The interior of Privé Grill is itself a haven of quiet sophistication which exudes warmth and intimacy. Accented by Grand Blotch Damask Wallpaper and Flos lamps, it is the ideal place to enjoy a gourmet meal while taking in sweeping views of the beautiful marina and the surrounding lush greenery.)
 
 ##### Gallery (Outlet Pics)
 ##### Menu (PDF)
